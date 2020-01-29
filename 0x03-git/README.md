@@ -1,0 +1,1 @@
+This is a project about the exercises of GIT challenge
